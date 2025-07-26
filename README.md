@@ -24,11 +24,11 @@ This is a Salesforce DX project developed for a premium men's fashion brand. The
 ## 🔗 GitHub Repository
 
 This project is hosted on GitHub:  
-https://github.com/Syedhamish/HandsMen-Threads_Men-s-Fashion_project
+https://github.com/SANDEEPGAGGARA/ThreadsMen-Fashion
 
 ##  Developer & Contact
 
- Name: Syed Hamish  
- Email: syedhamish99453@agentforce.com  
+ Name: Gaggara Tanoj Sandeep  
+ Email:322103310065153@agentforce.com  
  Role: Salesforce Developer & Intern  
  Project Status: Completed and Deployed to GitHub
